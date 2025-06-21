@@ -72,7 +72,7 @@ x0=0.500
 y0=0.000
 vx0=0
 vy0=1.630
-# leapfrog(dt,steps,x0,y0,vx0,vy0)
+leapfrog(dt,steps,x0,y0,vx0,vy0)
 
 # 2nd iteration
 dt=0.01
