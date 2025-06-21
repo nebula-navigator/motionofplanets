@@ -62,7 +62,7 @@ import matplotlib.pyplot as plt
 import pandas as pd
 
 def leapfrog(dt,steps,x0,y0,vx0,vy0):
-    # ... (full code as provided) ...
+    # as provided in the python script
     return
 
 # 1st iteration - a coarse timestep
